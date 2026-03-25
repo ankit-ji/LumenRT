@@ -1,0 +1,32 @@
+# Build directories
+build/
+bin/
+out/
+
+# IDE files
+.vscode/
+.vs/
+.idea/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeSettings.json
+
+# Compiled files
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Logs
+*.log
+
+# Temporary files
+enc_temp_folder/
+imgui.ini
+EditorState.yaml
+
+# Optional: large outputs (uncomment if needed)
+# outputs/

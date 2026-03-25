@@ -1,0 +1,16 @@
+[submodule "Laura/Thirdparty/glew-cmake"]
+	path = Laura/Thirdparty/glew-cmake
+	url = https://github.com/Perlmint/glew-cmake.git
+[submodule "Laura/Thirdparty/spdlog"]
+	path = Laura/Thirdparty/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "Laura/Thirdparty/assimp"]
+	path = Laura/Thirdparty/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "Laura/Thirdparty/yaml-cpp"]
+	path = Laura/Thirdparty/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "Laura/Thirdparty/glfw"]
+	path = Laura/Thirdparty/glfw
+	url = https://github.com/TheCherno/glfw.git
+	branch = master
